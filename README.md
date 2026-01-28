@@ -3,19 +3,18 @@
 A high-performance, polished CRUD application featuring a Glassmorphism UI, real-time-capable architecture, and dual-mode data persistence (Firebase Firestore ).
 
 ## Features
-
--   **Premium UI**: Custom-built Glassmorphism design with CSS variables, gradients, and micro-interactions.
--   **Dual-Mode Backend**:
-    -   **Production**: Connects to Firebase Firestore for real-time cloud data.
--   **Tech Stack**:
-    -   **Frontend**: React (Vite), Axios, Lucide React (Icons), Vanilla CSS (Premium).
-    -   **Backend**: Node.js, Express, Firebase Admin SDK.
+**Premium UI**: Custom-built Glassmorphism design with CSS variables, gradients, and micro-interactions.
+**Dual-Mode Backend**:
+**Production**: Connects to Firebase Firestore for real-time cloud data.
+**Tech Stack**:
+    **Frontend**: React (Vite), Axios, Lucide React (Icons), Vanilla CSS (Premium).
+    **Backend**: Node.js, Express, Firebase Admin SDK.
 
 ## Setup Instructions
 
 ### Prerequisites
--   Node.js (v14+)
--   npm
+Node.js (v14+)
+npm
 
 ### 1. Backend Setup
 ```bash
@@ -44,7 +43,3 @@ The client will start on `http://localhost:5173`.
 1.  **Dashboard**: View all items. (Read)
 2.  **Add Item**: Click the "+" button to open the modal. (Create)
 3.  **Edit/Delete**: Use the icon buttons on each card. (Update and Delete)
-# CRUD-project
-# CRUD-project
-# CRUD-project
-# CRUD-project
